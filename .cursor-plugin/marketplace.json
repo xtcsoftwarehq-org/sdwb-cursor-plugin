@@ -1,0 +1,8 @@
+{
+  "name": "same-day-website-builder",
+  "owner": { "name": "XTC Software", "email": "austin@trysamedaywebsitebuilder.com" },
+  "metadata": { "description": "Same Day Website Builder plugin for Cursor", "version": "1.0.0" },
+  "plugins": [
+    { "name": "same-day-website-builder", "source": "./plugins/same-day-website-builder", "description": "Build a trade business website" }
+  ]
+}

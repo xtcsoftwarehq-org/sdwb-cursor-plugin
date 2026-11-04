@@ -1,0 +1,12 @@
+{
+  "name": "same-day-website-builder",
+  "displayName": "Same Day Website Builder",
+  "version": "1.0.0",
+  "description": "Build a trade business website",
+  "author": { "name": "XTC Software", "email": "austin@trysamedaywebsitebuilder.com" },
+  "homepage": "https://samedaywebsitebuilder.com",
+  "repository": "https://github.com/xtcsoftwarehq-org/sdwb-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["website builder", "small business", "trades", "contractors", "plumbers", "electricians", "local seo", "landing page", "mcp"],
+  "logo": "assets/logo.png"
+}
